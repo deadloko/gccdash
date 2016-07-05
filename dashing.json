@@ -1,0 +1,16 @@
+{
+    "name": "GCC-4.9.3",
+    "package": "gcc-4.9.3",
+    "index": "index.html",
+    "selectors": {
+        "title": "Category",
+        "h4.subsection": "Section",
+        "h3.section": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "gccegg.png",
+    "allowJS": false,
+    "ExternalURL": ""
+}
