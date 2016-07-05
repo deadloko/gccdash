@@ -1,7 +1,7 @@
 {
     "name": "GCC-4.9.3",
     "package": "gcc-4.9.3",
-    "index": "index.html",
+    "index": "./gcc/index.html",
     "selectors": {
         "title": "Category",
         "h4.subsection": "Section",
